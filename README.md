@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fardous Alom
+<h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Fardous!  </h1>
+
+![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
 ====================================================================================================================================
 
 Web Developer
