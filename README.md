@@ -1,6 +1,6 @@
 <h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Fardous!</h1>
 
-🚀 Full-stack alchemist turning caffeine into code! Passionate web developer with a knack for transforming innovative ideas into functional and visually appealing solutions. Let's collaborate and build the next big thing together! 💻✨
+<p align="center">🚀 Full-stack alchemist turning caffeine into code! Passionate web developer with a knack for transforming innovative ideas into functional and visually appealing solutions. Let's collaborate and build the next big thing together! 💻✨</p>
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://fardous-alom.github.io/)
