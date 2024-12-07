@@ -5,7 +5,6 @@
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://fardous-alom.github.io/)
 * ✉️  You can contact me at [fardousalom42@gmail.com](mailto:fardousalom42@gmail.com)
-* 🚀  I'm currently working on [To Do App](http://github.com/Fardous-Alom/Portfolio)
 * 🤝  I'm open to collaborating on Other web projects
 * ⚡  Oneday I will make it happen
 
